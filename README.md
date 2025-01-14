@@ -1,3 +1,4 @@
+
 # Julia
 
 # Fiche Pédagogique
@@ -105,3 +106,8 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 
 
 # Journal de bord
+
+# Project Birds in the mansion
+
+![GAME_birds-in-the-mansion](https://github.com/user-attachments/assets/59cc8bb5-5ed2-4a1b-a6d1-86920e8d0b03)
+
